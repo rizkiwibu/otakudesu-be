@@ -6,8 +6,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Natee Otakudesu API",
-  description: "Otakudesu unofficial API, made by rizkyhaksono with 🤍",
+  title: "Rizk Otakudesu API",
+  description: "Otakudesu unofficial API, made by rizki with 🤍",
 }
 
 export const viewport = {
