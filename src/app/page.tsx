@@ -1,7 +1,7 @@
 export default async function HomePage() {
   return (
     <div>
-      <p>Natee Otakudesu API</p>
+      <p>iky Otakudesu API</p>
     </div>
   );
 }
